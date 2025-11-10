@@ -1,0 +1,15 @@
+# University Research Lab Facilities
+
+A Flutter app that showcases university research laboratory facilities and equipment.
+
+## Features
+- Clean teal-gradient UI
+- Facility grid layout
+- Image cards with titles
+- “Request Lab Access” button
+- Responsive for web and mobile
+
+## Run Instructions
+```bash
+flutter pub get
+flutter run -d chrome
